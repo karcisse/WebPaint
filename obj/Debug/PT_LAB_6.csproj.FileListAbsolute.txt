@@ -1,0 +1,13 @@
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\bin\Debug\PT_LAB_6.exe.config
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\bin\Debug\PT_LAB_6.exe
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\bin\Debug\PT_LAB_6.pdb
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.Form1.resources
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.Properties.Resources.resources
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.csproj.GenerateResource.Cache
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.exe
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.pdb
+C:\Users\Karol\Documents\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.colorForm.resources
+E:\Docs\Visual Studio 2013\Projects\PT_LAB_6\bin\Debug\PT_LAB_6.exe.config
+E:\Docs\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.exe
+E:\Docs\Visual Studio 2013\Projects\PT_LAB_6\obj\Debug\PT_LAB_6.pdb
